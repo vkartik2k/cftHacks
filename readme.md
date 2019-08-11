@@ -9,7 +9,8 @@
 
 ### FOR NODE.JS SERVER
 
-```npm install express express-session passport passport-local mysql2 sequelize socket.io
+```
+npm install express express-session passport passport-local mysql2 sequelize socket.io
 npm start 
  ```   
  (in hackathon-2 directory)
